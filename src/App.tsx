@@ -1,4 +1,4 @@
-# Added View Courses feature (SPA-3)
+//Added View Courses feature (SPA-6)
 
 
 import { Toaster } from "@/components/ui/toaster";
